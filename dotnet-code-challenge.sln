@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-code-challenge", "ConsoleApp1\dotnet-code-challenge.csproj", "{80B6EF5F-A5F3-49E7-97A7-F7F472524FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-code-challenge.Test", "..\..\..\source\repos\dotnet-code-challenge\dotnet-code-challenge.Test\dotnet-code-challenge.Test.csproj", "{1A0F380D-73B3-4C19-9B66-6412B92682FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B6EF5F-A5F3-49E7-97A7-F7F472524FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B6EF5F-A5F3-49E7-97A7-F7F472524FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B6EF5F-A5F3-49E7-97A7-F7F472524FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B6EF5F-A5F3-49E7-97A7-F7F472524FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0F380D-73B3-4C19-9B66-6412B92682FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0F380D-73B3-4C19-9B66-6412B92682FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0F380D-73B3-4C19-9B66-6412B92682FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0F380D-73B3-4C19-9B66-6412B92682FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8464F88A-7C5D-4291-95BA-42B82B92BC5D}
+	EndGlobalSection
+EndGlobal
